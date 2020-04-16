@@ -1,2 +1,2 @@
 # NLPHuwaei
-Poblems form huawei 2020 NLP course
+Poblems from huawei 2020 NLP course
